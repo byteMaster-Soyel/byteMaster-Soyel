@@ -31,6 +31,7 @@
 </div>
 
 ---
+### 🎓 Education & Certifications
 <div align="center">
 
 | Degree/Cert | Institution | Year |
